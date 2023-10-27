@@ -7,7 +7,7 @@ A reporting channel API project made for studying purposes, following RESTful pr
 
 #### Get all items
 
-```http
+```
   GET /api
 ```
 
@@ -23,7 +23,7 @@ A reporting channel API project made for studying purposes, following RESTful pr
 
 #### Create item
 
-```http
+```
   POST /api
 ```
 
@@ -37,7 +37,7 @@ A reporting channel API project made for studying purposes, following RESTful pr
 
 #### Get item
 
-```http
+```
   GET /api/${id}
 ```
 
@@ -48,7 +48,7 @@ A reporting channel API project made for studying purposes, following RESTful pr
 
 #### Update item
 
-```http
+```
   PUT|PATCH /api/${id}
 ```
 
@@ -64,7 +64,7 @@ A reporting channel API project made for studying purposes, following RESTful pr
 
 #### Delete item
 
-```http
+```
   DELETE /api/${id}
 ```
 
